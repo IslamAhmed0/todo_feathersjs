@@ -62,7 +62,7 @@
     "compression": "^1.7.4",
     "feathers-mongoose": "^8.5.1",
     "jsonwebtoken": "^9.0.0",
-    "mongodb": "^5.6.0",
+    "mongodb": "^5.8.0",
     "mongoose": "^7.2.2",
     "mongoose-type-email": "^1.1.2",
     "node": "^20.2.0",
